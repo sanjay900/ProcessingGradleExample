@@ -15,4 +15,5 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile 'net.tangentmc:ProcessingUtils:1.2'
+    compile 'nz.ac.victoria.ecs:UISound:1.0-SNAPSHOT'
 }
